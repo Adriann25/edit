@@ -104,12 +104,18 @@
 * [MLSDB](https://mlsbd.shop/) - Movie / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
-***
-
 ## ▷ Streaming / স্ট্রিমিং
 
 * [BanglaFlix](https://banglaflix.com.bd/) - Movies / TV
 * [Bangla IPTV](https://rentry.co/FMHYBase64#bangla-iptv-playlists) - IPTV Playlists
+
+***
+
+# ► Basque / Euskara
+
+## ▷ Streaming
+
+[Primera](https://primeran.eus) - Movies / TV (registration required)
 
 ***
 
